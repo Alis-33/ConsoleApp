@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6EDE79F6-2880-4120-99C6-B0C1654E2D45}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DBDConsole/UIPrinter.cs">
+    <Files>
+      <File FileName="DBDConsole/Cases.cs" Line="1" Column="1" />
+      <File FileName="DBDConsole/UIPrinter.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleApp" expanded="True">
+            <Node name="ConsoleApp" expanded="True">
+              <Node name="UIPrinter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="Matej Adamkovic" Email="m.adamkovic01@gmail.com" Copyright="" Company="" Trademark="" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
